@@ -1,0 +1,9 @@
+﻿  UIWidget.cpp
+  UISlider.cpp
+d:\programmation\repo_git\thot\thot\sources\uislider.cpp(19): error C2065: 'm_isDragged' : identificateur non déclaré
+d:\programmation\repo_git\thot\thot\sources\uislider.cpp(27): error C3861: 'OnSliderDragged' : identificateur introuvable
+d:\programmation\repo_git\thot\thot\sources\uislider.cpp(33): error C2065: 'nput' : identificateur non déclaré
+d:\programmation\repo_git\thot\thot\sources\uislider.cpp(33): error C2228: la partie gauche de '.mouseButtonState' doit avoir un class/struct/union
+  d:\programmation\repo_git\thot\thot\sources\uislider.cpp(33): note: le type est 'unknown-type'
+d:\programmation\repo_git\thot\thot\sources\uislider.cpp(41): error C2653: 'UISlider' : n'est pas un nom de classe ni d'espace de noms
+  Génération de code en cours...
